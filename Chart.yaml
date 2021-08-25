@@ -1,0 +1,10 @@
+apiVersion: v1
+name: nginx-deployment 
+description: Install an nginx deployment
+keywords:
+- nginx
+- exercise
+version: 1.0.0
+maintainers:
+- name: spaghetti
+  email: spaghettiwews@outlook.com
